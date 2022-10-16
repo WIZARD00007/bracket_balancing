@@ -54,7 +54,7 @@ else:
 
 ### So it does't work in this case.
 
-# My Algorithm
+# Custom
 
 ```python
 def isBalanced(pattern):
